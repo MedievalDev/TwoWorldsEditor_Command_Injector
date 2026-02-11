@@ -1,0 +1,19 @@
+{
+  "buttons": [],
+  "delay_ms": 30,
+  "console_key": "c",
+  "close_console": true,
+  "always_on_top": true,
+  "target_window": "",
+  "lang": "de",
+  "focus_mode": "auto",
+  "auto_keyword": "TwoWorlds Editor",
+  "console_keyword": "Console",
+  "editor_path": "",
+  "last_map": "",
+  "mc_sdk_path": "",
+  "mc_game_path": "",
+  "mc_saves_path": "",
+  "mc_wd_file": "",
+  "mc_repacker": ""
+}
