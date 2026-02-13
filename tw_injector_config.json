@@ -5,7 +5,7 @@
   "close_console": true,
   "always_on_top": true,
   "target_window": "",
-  "lang": "de",
+  "lang": "en",
   "focus_mode": "auto",
   "auto_keyword": "TwoWorlds Editor",
   "console_keyword": "Console",
@@ -16,4 +16,5 @@
   "mc_saves_path": "",
   "mc_wd_file": "",
   "mc_repacker": ""
+
 }
