@@ -35,8 +35,11 @@ The injector uses clipboard injection to send commands to the editor's console. 
 
 ## Related Repositories
 
-- [LanViewer](https://github.com/MedievalDev/LanViewer) — Viewer/editor for .lan language files (translations, dialogs, aliases)
-- [TwDialogEditor_QTX_IDX](https://github.com/MedievalDev/TwDialogEditor_QTX_IDX) — Quest & dialog editor for .idx, .qtx, and .shf files
+Related Repositories
+
+Twor-Worlds-Dialog-Viewer-Editor — LAN Viewer and Quest/Dialog Editor for .lan, .idx, .qtx, and .shf files
+Twor-Worlds-LND-Viewer — LND map format viewer with heightmap, textures, objects, and world viewer
+Two-Worlds-Modding-Guid — Interactive modding guide with step-by-step tutorials
 
 ## License
 
