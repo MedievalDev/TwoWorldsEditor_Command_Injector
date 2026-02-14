@@ -41,7 +41,7 @@ Related Repositories
   https://github.com/MedievalDev/Twor-Worlds-Dialog-Viewer-Editor
 - Twor-Worlds-LND-Viewer — LND map format viewer with heightmap, textures, objects, and world viewer
   https://github.com/MedievalDev/Twor-Worlds-LND-Viewer
-- Two-Worlds-Modding-Guid — Interactive modding guide with step-by-step tutorials
+- Two-Worlds-Modding-Guid — Interactive Map modding guide for TwoWorldsEditor with step-by-step tutorials
   https://github.com/MedievalDev/Two-Worlds-Modding-Guid
 
 ## License
